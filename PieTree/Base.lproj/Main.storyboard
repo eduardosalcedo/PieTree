@@ -429,7 +429,7 @@
                     </view>
                     <connections>
                         <outlet property="correctWordLabel" destination="fkw-Cv-APT" id="0pC-ic-d3h"/>
-                        <outlet property="score" destination="IIg-aK-RFE" id="gWE-EV-HmG"/>
+                        <outlet property="scoreLabel" destination="IIg-aK-RFE" id="gWE-EV-HmG"/>
                         <outlet property="treeImageView" destination="DqB-Rh-vlv" id="5FQ-AG-dJ0"/>
                         <outletCollection property="letterButtons" destination="gIx-83-rXg" collectionClass="NSMutableArray" id="dGy-U3-vxM"/>
                         <outletCollection property="letterButtons" destination="cof-Wh-iZn" collectionClass="NSMutableArray" id="1JC-8n-nxF"/>
